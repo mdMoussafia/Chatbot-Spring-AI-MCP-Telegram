@@ -1,12 +1,10 @@
-package net.youssfi.enstbot.web;
+package ma.enset.chatbot.web;
 
-import net.youssfi.enstbot.agents.AIAgent;
-import org.springframework.ai.chat.client.ChatClient;
+import ma.enset.chatbot.agents.AIAgent;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import reactor.core.publisher.Flux;
 
 @RestController
 public class ChatController {

@@ -1,7 +1,7 @@
-package net.youssfi.enstbot.telegram;
+package ma.enset.chatbot.telegram;
 
 import jakarta.annotation.PostConstruct;
-import net.youssfi.enstbot.agents.AIAgent;
+import ma.enset.chatbot.agents.AIAgent;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;

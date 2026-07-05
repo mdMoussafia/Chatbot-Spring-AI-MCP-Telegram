@@ -1,4 +1,4 @@
-package net.youssfi.enstbot.agents;
+package ma.enset.chatbot.agents;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;
