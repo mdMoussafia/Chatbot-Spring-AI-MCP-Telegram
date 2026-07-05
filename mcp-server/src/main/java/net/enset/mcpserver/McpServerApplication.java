@@ -1,4 +1,4 @@
-package net.youssfi.mcpserver;
+package net.enset.mcpserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

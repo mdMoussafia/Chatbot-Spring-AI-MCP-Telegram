@@ -8,8 +8,8 @@
         <version>3.5.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>net.youssfi</groupId>
-    <artifactId>enst-bot</artifactId>
+    <groupId>ma.enset</groupId>
+    <artifactId>chatbot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>enst-bot</name>
     <description>enst-bot</description>

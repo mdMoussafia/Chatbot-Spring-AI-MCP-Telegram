@@ -1,4 +1,4 @@
-package net.youssfi.mcpserver.tools;
+package net.enset.mcpserver.tools;
 
 import org.springaicommunity.mcp.annotation.McpArg;
 import org.springaicommunity.mcp.annotation.McpTool;
